@@ -1,3 +1,5 @@
+#CopyRight 2020 by lzc
+
 #include <iostream>
 
 using namespace std;
